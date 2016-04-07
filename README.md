@@ -1,2 +1,5 @@
 # hello-world
-hey it's another repository! 
+
+Hi guy!
+
+Onthewayhome here! I'm so new to this and everything is exciting (omg) 
